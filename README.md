@@ -1,4 +1,4 @@
-# fundcrawler
+# Fund Crawler
 
 FUNDCLEAR 基金資訊觀測站 爬蟲
 
