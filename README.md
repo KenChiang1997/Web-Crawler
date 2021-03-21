@@ -1,3 +1,6 @@
+
+author : " 江晨立 , ken chiang"
+
 # Crawler
 
 FUNDCLEAR 基金資訊觀測站 爬蟲
