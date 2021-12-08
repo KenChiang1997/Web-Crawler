@@ -294,7 +294,7 @@ if __name__ == '__main__':
     Selenium           = "D:\My Documents\kenc\桌面\ken_python\ins客戶歸戶\chromedriver.exe"
     Type               = "offshore" # onshore --> lower cap 
     月份               = "October"
-    Layer_2            = None # ( 點進去找基金各類級別資料 )
+    Layer_2            = True # ( 點進去找基金各類級別資料 )
     desire_page        = 1 
     # --------------------------------------- 
 
