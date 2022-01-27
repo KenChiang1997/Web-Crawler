@@ -5,7 +5,6 @@ author : " 江晨立 , ken chiang"
 
 FUNDCLEAR 基金資訊觀測站 爬蟲
 
-seeking alpha -  Apple Earning conference call carwler (Demo)
 # infor
 
 ![image](https://user-images.githubusercontent.com/80143995/111875635-d89ae000-89d5-11eb-9a78-6cd22df3aa92.png)
